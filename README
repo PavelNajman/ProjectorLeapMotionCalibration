@@ -1,0 +1,25 @@
+Projector-Leap Motion calibration.
+
+Requirements:
+Qt 5.3+
+Leap Motion SDK
+
+How to use:
+- When started, the application runs minimalized in windows tray.
+- To calibrate Leap Motion with specific display, click with right mouse button on the application icon and choose the display.
+- Press key '1' or '2' to start the calibration.
+
+Keys:
+1 - Run 2D calibration.
+2 - Run 3D calibration.
+3 - Calibration result test.
+Del - Restart current calibration.
+'+' - Increase pattern size.
+'-' - Decrease pattern size.
+Shift + '+' - Increase marker size. 
+Shift + '-' - Decrease marker size.
+Esc - Hide calibration window.
+
+How to achieve best results:
+- Open hand and touch the targets with your middle finger
+
