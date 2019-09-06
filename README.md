@@ -1,4 +1,5 @@
 # Projector-Leap Motion calibration
+Simple utility that enables you to calibrate your Leap Motion device and projector, so that you can interact with projected content directly by using hand gestures.
 ## Requirements
  - Qt 5.3+
  -  Leap Motion SDK
